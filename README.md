@@ -10,4 +10,5 @@ sudo docker run --previleged -it centos7-media
 to build inside container:
 
 scl enable devtoolset-7
+
 checkout all projects into /project dir
