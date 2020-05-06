@@ -5,7 +5,7 @@ to build run:
 sudo docker build -t centos7-media .
 
 to run:
-sudo docker run --previleged -it centos7-media
+sudo docker run --privileged -it centos7-media
 
 to build inside container:
 
